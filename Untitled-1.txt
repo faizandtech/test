@@ -1,5 +1,0 @@
-first dev
-
-bug cycle 1
-
-bug final cycle
